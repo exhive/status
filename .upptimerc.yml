@@ -9,14 +9,14 @@ sites:
     url: https://prod-backend-service-780165197606.europe-west1.run.app/health
   - name: AI service
     url: https://prod-ai-service-780165197606.europe-west1.run.app
-
+skipDeleteIssues: true
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   theme: light
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/exhive/status/master/assets/favicon-32x32.png
+  logoUrl: https://raw.githubusercontent.com/exhive/status/master/assets/favicon-48x48.png
   favicon: https://raw.githubusercontent.com/exhive/status/master/assets/favicon-32x32.png
   name: Exhive Status
   introTitle: "Exhive System Status Dashboard"
