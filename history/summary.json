@@ -52,25 +52,5 @@
     "timeMonth": 181,
     "timeYear": 181,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "ML service",
-    "url": "https://prod-ml-service-780165197606.europe-west1.run.app/health",
-    "icon": "https://icons.duckduckgo.com/ip3/prod-ml-service-780165197606.europe-west1.run.app.ico",
-    "slug": "ml-service",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 191,
-    "timeDay": 191,
-    "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191,
-    "dailyMinutesDown": {
-      "2025-07-02": 1
-    }
   }
 ]

@@ -9,23 +9,25 @@ sites:
     url: https://prod-backend-service-780165197606.europe-west1.run.app/health
   - name: AI service
     url: https://prod-ai-service-780165197606.europe-west1.run.app
-  - name: ML service
-    url: https://prod-ml-service-780165197606.europe-west1.run.app/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
+  theme: light
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/exhive/status/master/assets/logo.svg
+  favicon: https://raw.githubusercontent.com/exhive/status/master/assets/favicon-32x32.png
   name: Exhive Status
-  introTitle: "Exhive's services uptime monitor and status page, powered by GitHub."
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/exhive/status). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/exhive/status)
+  introTitle: "Exhive System Status Dashboard"
+  introMessage: Live status monitoring for all Exhive services. Updated in real-time.
   navbar:
-    - title: Status
+    - title: Overview
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/exhive
+  i18n:
+    footer: Exhive Status @2025
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
