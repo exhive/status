@@ -16,17 +16,8 @@ status-website:
   # cname: demo.upptime.js.org
   theme: light
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/exhive/status/master/assets/favicon-48x48.svg
+  logoUrl: https://raw.githubusercontent.com/exhive/status/master/assets/logo.svg
   favicon: https://raw.githubusercontent.com/exhive/status/master/assets/favicon-32x32.png
-  css: |
-    /* Hide the brand text that sits next to the logo */
-    .navbar__title,
-    .navbar__brand span {        /* Docusaurus v2 */
-      display: none !important;
-    }
-    header .brand span {         /* Svelte-site template (Upptime ≥5) */
-      display: none !important;
-    }
   name: Exhive Status
   introTitle: "Exhive System Status Dashboard"
   introMessage: Live status monitoring for all Exhive services. Updated in real-time.
