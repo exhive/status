@@ -16,7 +16,7 @@ status-website:
   # cname: demo.upptime.js.org
   theme: light
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/exhive/status/master/assets/logo.svg
+  logoUrl: https://raw.githubusercontent.com/exhive/status/master/assets/favicon-48x48.svg
   favicon: https://raw.githubusercontent.com/exhive/status/master/assets/favicon-32x32.png
   css: |
     /* Hide the brand text that sits next to the logo */
@@ -37,6 +37,14 @@ status-website:
       href: https://github.com/exhive/status
 i18n:
   footer: Exhive Status © 2025
+workflowSchedule:
+  graphs: "0 0 * * *" # 00:00 UTC, once a day
+  responseTime: "0 23 * * *" # 23:00 UTC, once a day
+  staticSite: "0 1 * * *" # 01:00 UTC, once a day
+  summary: "0 0 * * *" # 00:00 UTC, once a day
+  updateTemplate: "0 0 * * *" # 00:00 UTC, once a day
+  updates: "0 3 * * *" # 03:00 UTC, once a day
+  uptime: "0 * * * *" # every hour on the hour
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
