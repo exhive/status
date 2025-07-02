@@ -16,18 +16,18 @@ status-website:
   # cname: demo.upptime.js.org
   theme: light
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/exhive/status/master/assets/logo.svg
+  logoUrl: https://raw.githubusercontent.com/exhive/status/master/assets/favicon-32x32.png
   favicon: https://raw.githubusercontent.com/exhive/status/master/assets/favicon-32x32.png
-  # name: Exhive Status
+  name: Exhive Status
   introTitle: "Exhive System Status Dashboard"
   introMessage: Live status monitoring for all Exhive services. Updated in real-time.
   navbar:
     - title: Overview
       href: /status
     - title: GitHub
-      href: https://github.com/exhive
+      href: https://github.com/exhive/status
 i18n:
-  footer: Exhive Status @2025
+  footer: Exhive Status © 2025
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
