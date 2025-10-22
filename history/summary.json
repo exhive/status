@@ -10,12 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6752,
+    "time": 6764,
     "timeDay": 10900,
     "timeWeek": 11052,
     "timeMonth": 9604,
-    "timeYear": 6752,
-    "dailyMinutesDown": {}
+    "timeYear": 6764,
+    "dailyMinutesDown": {
+      "2025-10-22": 0
+    }
   },
   {
     "name": "Backend service",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod-ai-service-780165197606.europe-west1.run.app.ico",
     "slug": "ai-service",
     "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "50.80%",
-    "uptimeWeek": "92.97%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "99.56%",
+    "uptime": "99.33%",
+    "uptimeDay": "25.12%",
+    "uptimeWeek": "89.30%",
+    "uptimeMonth": "97.54%",
+    "uptimeYear": "99.33%",
     "time": 195,
     "timeDay": 204,
     "timeWeek": 193,
     "timeMonth": 196,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-10-22": 3,
+      "2025-10-22": 373,
       "2025-10-21": 706
     }
   }
