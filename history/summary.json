@@ -10,11 +10,11 @@
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
-    "time": 6659,
+    "time": 6662,
     "timeDay": 4203,
     "timeWeek": 8786,
     "timeMonth": 9057,
-    "timeYear": 6659,
+    "timeYear": 6662,
     "dailyMinutesDown": {
       "2025-10-22": 56
     }
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod-ai-service-780165197606.europe-west1.run.app.ico",
     "slug": "ai-service",
     "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "21.22%",
-    "uptimeWeek": "88.75%",
-    "uptimeMonth": "97.41%",
-    "uptimeYear": "99.30%",
+    "uptime": "98.86%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "81.62%",
+    "uptimeMonth": "95.77%",
+    "uptimeYear": "98.86%",
     "time": 195,
-    "timeDay": 204,
+    "timeDay": 174,
     "timeWeek": 193,
     "timeMonth": 196,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-10-22": 429,
+      "2025-10-22": 1147,
       "2025-10-21": 706
     }
   }
