@@ -1,7 +1,7 @@
 url: https://exhive.app
-status: up
-code: 200
-responseTime: 1582
-lastUpdated: 2025-10-31T23:07:09.662Z
+status: down
+code: 403
+responseTime: 319
+lastUpdated: 2025-11-01T01:35:47.572Z
 startTime: 2025-07-02T08:06:27.325Z
 generator: Upptime <https://github.com/upptime/upptime>
