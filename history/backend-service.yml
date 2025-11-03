@@ -1,7 +1,7 @@
 url: https://prod-backend-service-780165197606.europe-west1.run.app/health
 status: up
 code: 200
-responseTime: 173
-lastUpdated: 2025-11-02T23:06:18.826Z
+responseTime: 289
+lastUpdated: 2025-11-03T23:07:06.039Z
 startTime: 2025-07-02T08:06:36.217Z
 generator: Upptime <https://github.com/upptime/upptime>
